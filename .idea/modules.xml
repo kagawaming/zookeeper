@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ming.iml" filepath="$PROJECT_DIR$/.idea/modules/ming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ming_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ming_main.iml" group="ming" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ming_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ming_test.iml" group="ming" />
+    </modules>
+  </component>
+</project>
